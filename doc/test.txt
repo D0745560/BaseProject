@@ -1,0 +1,10 @@
+test file
+<<<<<<< HEAD
+test2
+<<<<<<< Updated upstream
+33333
+=======
+=======
+333333333333333
+>>>>>>> master
+>>>>>>> Stashed changes
